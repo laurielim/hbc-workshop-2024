@@ -12,4 +12,5 @@ vendor
 !*.gitkeep
 !*.keepme
 *.sql
+*.sql.gz
 .env.local
